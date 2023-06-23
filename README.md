@@ -14,3 +14,16 @@ Espero que esse arquivo `tailwind.css` seja útil para o seu projeto. Sinta-se �
 Para mais informações sobre o Tailwind CSS e suas capacidades, consulte a documentação oficial em [tailwindcss.com](https://tailwindcss.com/).
 
 **Nota:** Este arquivo `tailwind.css` é apenas uma seleção das classes disponíveis no Tailwind CSS e não inclui todas as possibilidades. Recomenda-se utilizar o pacote oficial do Tailwind CSS e configurá-lo adequadamente para o seu projeto específico.
+
+
+Para usar, primeiramente, instale as depedências do projeto:
+
+```bash
+npm install
+```
+
+Em seguida, gere o arquivo `tailwind.css`, execute este comando:
+
+```bash
+npm run build
+```
